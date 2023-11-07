@@ -10,7 +10,8 @@ $ git clone https://github.com/gegomes/Login-social-com-a-Twitch.git
 
 Acesse a pasta do projeto no terminal/cmd
 
-$ cd gofinances
+$ cd Login-social-com-a-Twitch
+
 Instale as dependências
 
 $ npm install
