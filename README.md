@@ -5,7 +5,9 @@
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git e Node.js. Além disso é bom ter um editor para trabalhar com o código como VSCode. 
 Clone este repositório
 
-$ git clone https://github.com/gegomes/Gofineces.git
+$ git clone https://github.com/gegomes/Login-social-com-a-Twitch.git
+<br>
+
 Acesse a pasta do projeto no terminal/cmd
 
 $ cd gofinances
